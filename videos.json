@@ -2,24 +2,16 @@
   "appMeta": {
     "appName": "VK Movies",
     "version": "1.0",
-    "lastUpdated": "2026-02-03T08:00:00Z"
+    "lastUpdated": "2026-02-03T09:43:20.893Z"
   },
   "videos": [
     {
-      "id": "vid_001",
-      "title": "Sample Movie One",
-      "thumbnail": "https://example.com/thumbnails/movie1.jpg",
-      "videoUrl": "https://drive.google.com/uc?id=GOOGLE_DRIVE_FILE_ID_1",
+      "id": "vid_1770111800893",
+      "title": "Ghar Kab Aoge Video Song",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcge6vlG8SA-YeIeN3rbs1rHpCCG0ibE0w7A&s",
+      "videoUrl": "https://drive.google.com/uc?id=163d6jnyjesrxR6khT1ROR6V4tNvVVTGo",
       "visibility": "public",
-      "uploadedAt": "2026-02-03T07:30:00Z"
-    },
-    {
-      "id": "vid_002",
-      "title": "Sample Movie Two",
-      "thumbnail": "https://example.com/thumbnails/movie2.jpg",
-      "videoUrl": "https://drive.google.com/uc?id=GOOGLE_DRIVE_FILE_ID_2",
-      "visibility": "public",
-      "uploadedAt": "2026-02-03T07:45:00Z"
+      "uploadedAt": "2026-02-03T09:43:20.893Z"
     }
   ]
 }
