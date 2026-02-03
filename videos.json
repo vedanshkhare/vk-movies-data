@@ -1,29 +1,13 @@
 {
-  "appMeta": {
-    "appName": "VK Movies",
-    "version": "1.0",
-    "lastUpdated": "2026-02-03T09:43:20.893Z"
-  },
+  "lastUpdated": "2026-02-03T11:00:00Z",
   "videos": [
     {
-      "id": "vid_1770111800893",
-      "title": "Ghar Kab Aoge Video Song",
-      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcge6vlG8SA-YeIeN3rbs1rHpCCG0ibE0w7A&s",
-      "videoUrl": "https://www.youtube.com/watch?v=lOHVMmZ6n3o",
+      "id": "yt_1706950000000",
+      "title": "My Custom Thumbnail Movie",
+      "videoId": "dQw4w9WgXcQ",
+      "thumbnail": "https://example.com/my-thumbnail.jpg",
       "visibility": "public",
-      "uploadedAt": "2026-02-03T09:43:20.893Z"
- 
-      "id": "vid_17701118008934",
-      "title": "Border 1",
-      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQ_DNH3u1rWvxJaoL93Nia3T9Wo8zD0pPj5Q&s",
-      "videoUrl": "https://www.youtube.com/watch?v=DJbLzoEV0qY",
-      "visibility": "public",
-      "uploadedAt": "2026-02-03T09:43:20.893Z"
+      "addedAt": "2026-02-03T11:00:00Z"
     }
   ]
 }
-
-
-
-
-
